@@ -1,3 +1,4 @@
+
 ## Wellington Avelino dos Santos
 ## Weldisson da Silva Araujo
 ## Aparecido Ferreira de Oliveira
@@ -7,3 +8,4 @@
 ## Cristiane dos Santos Souza
 ## Bruno dos Santos Vieira
 ## Caio stigliani
+#####ultima tarefa do treinamento 
