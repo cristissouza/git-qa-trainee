@@ -1,4 +1,6 @@
 
+Treinamentio dia 20!!!!
+Ultima etapa , conflito merge
 ## Wellington Avelino dos Santos
 ## Weldisson da Silva Araujo
 ## Aparecido Ferreira de Oliveira
